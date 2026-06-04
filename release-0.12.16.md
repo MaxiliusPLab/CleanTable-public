@@ -1,8 +1,10 @@
 # CleanTable 0.12.16 Public Beta Notes
 
-Last updated: 2026-06-02
+Last updated: 2026-06-04
 
-CleanTable 0.12.16 is a public beta version submitted for Chrome Web Store review.
+Traditional Chinese version: [CleanTable 0.12.16 公開測試版說明](release-0.12.16.zh-TW.md)
+
+CleanTable 0.12.16 is a public beta version published on the Chrome Web Store.
 
 CleanTable helps you turn visible web page data into a clean table. You select the part of the page you want, check the preview, edit it if needed, then copy or download the result for Excel, Google Sheets, LibreOffice Calc, or another spreadsheet tool.
 
@@ -10,12 +12,7 @@ CleanTable helps you turn visible web page data into a clean table. You select t
 
 CleanTable is still in beta. It works well with many common tables, lists, and cards, but some web pages may still need manual cleanup.
 
-If something does not work as expected, please send a simple report through the support channel. A helpful report includes:
-
-- The type of page you were using.
-- The area you selected.
-- What you expected to get.
-- What happened instead.
+If something does not work as expected, please send feedback through the support page.
 
 Please do not send private, sensitive, or account-only page content.
 

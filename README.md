@@ -2,12 +2,19 @@
 
 This repository contains public-facing documents for the CleanTable Chrome extension.
 
-Please see:
+CleanTable turns user-selected visible web page data into clean tables for Excel, Google Sheets, LibreOffice Calc, and other spreadsheet tools.
+
+## English
 
 - [CleanTable 0.12.16 Public Beta Notes](release-0.12.16.md)
 - [Privacy Policy](privacy-policy.md)
-- [Support](support.md)
+- [Support and Feedback](support.md)
 
-CleanTable turns user-selected visible web page data into clean tables for Excel, Google Sheets, and other spreadsheet tools.
+## 繁體中文
 
-This repository is intentionally limited to store-facing documentation.
+- [CleanTable 0.12.16 公開測試版說明](release-0.12.16.zh-TW.md)
+- [支援與回饋](support.md)
+
+## Repository Scope
+
+This repository is intentionally limited to store-facing public documentation. It does not contain extension source code, release packages, screenshots, private notes, or user-submitted page content.
