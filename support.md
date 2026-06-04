@@ -1,29 +1,19 @@
 ﻿# CleanTable Support
 
-Last updated: 2026-06-02
+Last updated: 2026-06-04
 
-If CleanTable does not produce the table you expected on a page, please keep the information below. This page provides a simple feedback format you can use later through the Chrome Web Store page or another public support channel.
+## English
 
-## Suggested Report Format
+For beta feedback, bug reports, or suggestions, please use the English feedback form:
 
-```text
-CleanTable feedback
+[English feedback form](https://www.surveycake.com/s/Mbb6l)
 
-1. Page URL:
-2. What did you select:
-3. What did you expect:
-4. What happened:
-5. Browser:
-6. CleanTable version:
-7. Screenshot: optional
-```
+Please do not submit passwords, cookies, tokens, account details, private account pages, payment pages, full page HTML, complete articles, complete product descriptions, large copyrighted content, or personal data that is not needed to explain the issue.
 
-## Please Do Not Send
+## 繁體中文
 
-- Passwords, cookies, tokens, or account details.
-- Private account pages, payment pages, or member-only content.
-- Full page HTML.
-- Complete articles, complete product descriptions, or large copyrighted content.
-- Personal data that is not needed to explain the issue.
+如果你要回報 beta 使用心得、錯誤或建議，請使用中文回饋表單：
 
-Screenshots are optional. If a screenshot includes private data, please crop or blur it before sending.
+[中文回饋表單](https://www.surveycake.com/s/YVVgV)
+
+請不要提交密碼、Cookie、登入憑證、帳號資料、私人帳號頁面、付款頁面、完整網頁 HTML、完整文章、完整商品描述、大量受著作權保護的內容，或與問題說明無關的個人資料。
