@@ -6,12 +6,14 @@ CleanTable turns user-selected visible web page data into clean tables for Excel
 
 ## English
 
+- [CleanTable 0.12.28 Update Notes](release-0.12.28.md)
 - [CleanTable 0.12.16 Public Beta Notes](release-0.12.16.md)
 - [Privacy Policy](privacy-policy.md)
 - [Support and Feedback](support.md)
 
 ## 繁體中文
 
+- [CleanTable 0.12.28 更新說明](release-0.12.28.zh-TW.md)
 - [CleanTable 0.12.16 公開測試版說明](release-0.12.16.zh-TW.md)
 - [支援與回饋](support.md)
 
